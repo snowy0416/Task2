@@ -5,7 +5,9 @@ import About from "./pages/About"
 import Contact from "./pages/Contact"
 import Projects from "./pages/Projects"
 import Skills from "./pages/Skills"
+import Footer from "./Footer"
 
+  
 
 
 
@@ -23,7 +25,9 @@ export default function App() {
           <Route path ="contact" element={<Contact/>}/>
         </Route>
        </Routes>
+       <Footer/>
        </BrowserRouter>
+      
      </div>
   )
 }

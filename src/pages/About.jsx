@@ -25,5 +25,6 @@ elegant and functional digital solutions. Armed with expertise in HTML,CSS, Java
         </div>
       </div>
     </div>
+   
   )
 }

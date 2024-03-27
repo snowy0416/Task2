@@ -18,6 +18,7 @@
 .tt{
     font-size: 60px;
     font-weight: bold;
+    color: white;
 }
 .arrow{
     font-size: 60px;
@@ -42,7 +43,8 @@
 
 }
 .intro{
-    width: 55%
+    width: 55%;
+    color:white;
 }
 .img2{
     position: absolute;
@@ -65,10 +67,13 @@
 .img5{
     width: 400px;
     position: relative;
+    box-shadow: 2px 2px 20px white; 
 }
 .intros{
     margin-top:150px;
     width: 70%;
+    color:white;
+  
 }
 .right{
     width: 50%;
@@ -87,12 +92,17 @@
     padding: 5px;
     margin-top: 5%;
     justify-content: center;
+    color:white;
+    
+   
 }
 .skills-cont{
     margin: 5%;
     width: 100%;
     display:flex;
     justify-content: center;
+    color:white;
+    
 }
 .img7{
     width: 72%;
@@ -106,5 +116,62 @@
     margin-left: 40px ;
 }
 
+.cont3{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    float: left;
+    padding:100px ;
+   justify-content: space-around;
+   margin-top: 20px;
+   
+}
+.left-1{
+    width: 50%;
+    margin-right: 50px;
+    box-shadow: 2px 2px 20px black; 
+}
+
+.img9{
+    width:800px;
+    box-shadow: 2px 2px 20px black; 
 
 
+}
+.right-1{
+    width:50%;
+   
+}
+
+.left-2{
+    margin-top: -80px;
+    margin-right: 50px;
+    width: 50%;
+  
+}
+.right-2{
+    width: 50%;
+    margin-top: -20px;
+  
+   
+}
+.img10{
+    width: 800px;
+    height:350px;
+    box-shadow: 2px 2px 20px black; 
+}
+.img11{
+    width: 800px;
+    height:350px;
+    margin-top: 60px;
+    box-shadow: 2px 2px 20px black; 
+
+}
+.divider {
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+  }
+  .hori{
+    color: white;
+    background-color: white;
+  }

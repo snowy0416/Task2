@@ -6,6 +6,7 @@ export default function Skills() {
          <div className="ttx">
         My Skills <span className='arrow'>&#8594;</span>
       </div>
+      <section className="py-6  bg-black">
       <div className= "skills-cont">
       <div className=" sk-1">
             <ul className='skills-1'>
@@ -28,8 +29,14 @@ export default function Skills() {
         <div className="skills-2">
         <img className="img8" src="\src\assets\DOT LINE 2.png" alt="logo" />
       </div>
+
     </div>
     </div>
+  
+    </section>
+    <hr className="hori" />
     </div>
+  
+   
   )
 }
